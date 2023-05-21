@@ -59,7 +59,6 @@ education:
     info:
       - degree: BSc in Computer Science
         university: Penn State University
-        time: 1998 - 2002
         details: |
           Focused on Software Design and Architecture
 experiences:
@@ -103,23 +102,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: Javascript & jQuery
+        level: 100%
+
+      - name: Java
+        level: 100%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: Concourse
+        level: 85%
+
+      - name: GoCD
+        level: 75%
+
+      - name: Jenkins
+        level: 75%
+
+      - name: Bash
+        level: 75%
+
+      - name: AWS
+        level: 50%
+
+      - name: CloudFoundry (Pivotal & OSCF)
+        level: 70%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
