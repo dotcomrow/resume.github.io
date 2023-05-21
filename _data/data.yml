@@ -132,5 +132,11 @@ skills:
       - name: CloudFoundry (Pivotal & OSCF)
         level: 70%
 
+      - name: J2EE (Appservers and Design/Architecture)
+        level: 100%
+
+      - name: Apache Frameworks - Struts, Spring
+        level: 100%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
