@@ -3,27 +3,26 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chris Lyons
+    tagline: Sr. Systems Programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: administrator@suncoast.systems
+    phone: 2025706514
+    timezone: America/New York Timezone
+    citizenship: United States
+    website: dotcomrow.wordpress.com #do not add http://
+    linkedin: dotcomrow
+    github: dotcomrow
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@dotcomrow'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,124 +34,56 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Guitar
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Technology / Programming
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I began in tech like many, my Father was in tech and I was excited to use his old tech as he upgraded!  I spent my high school years building computers for friends and hosting and desiging lan parties for Doom matches.
+      After graduating Penn State with a B.S. in Computer Science I immeidately went to work for a small defense contractor cutting my teeth on tomcat and JSP applications before receiving an offer from USPS as a java developer.
+      The USPS datacenter was home to a great many applications and technologies and I tried to take full advantage and learn everything I could.  I worked up the ranks from developer to Sr. Systems Engineer progressively taking on more and more responsibility.
+      In my final years at USPS I was the architect responsible for cns.usps.com and poboxes.usps.com among other applications and responsibilities.  These applications were among the first to be built in a microservices architecture.
+      These applications were orignally built using Apache struts frameworks which was a comfortable approach used at the datacenter.  I spent effort and time to document and design an approach for microservices migration that gained the confidence of management and the team and built a roadmap for others to follow to a microservices future.
+      I was also responsible for the epayroll system which was one of the first US Govt systems to show paystubs online in near realtime as they were processed.
+      I moved then to a career with Accenture where I joined the team of an AI/ML application for a national media/entertainment company.  This was an exciting leap from legacy J2EE applications to fully modern cloud services.
+      In this role I built additional components for integration with a survey provider, migrated core services from a legacy J2EE system to AWS cloud microservices, and built tools for source code security review and monitoring.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Science
+        university: Penn State University
+        time: 1998 - 2002
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Focused on Software Design and Architecture
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: DEVOPS ENGINEER
+        time: 2019 - present
+        company: Accenture, Philadelphia, PA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Served as developer/engineer on Comcast migration project to retire older J2EE monolith legacy systems to Spring Boot microservice cloud application services. Migration microservices were written to Java 11 standards. Microservices contained Couchbase integration, Drools engine, Async and multithreaded code, promises and futures, REST and SOAP services, and used gradle build system.
+          Joined Xfinity Assistant team in March 2020 as a DevOps engineer. Responsible for developing code and working defects, adding new features, and performing on-call support.
+      - role: Sr. Systems Engineer
+        time: 2004 - 2019
+        company: USPS, Wilkes-Barre, PA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Senior Information Technology (IT) Systems Engineer and Analyst for the U.S. Postal Service (USPS). Responsible for the development, implementation, and evolution of multiple enterprise business and logistics management systems. Lead teams to create complex order management systems that maintain accountability of more than 2M customer engagements daily.
+            - Architect responsible for cns.usps.com
+            - Architect responsibel for poboxes.usps.com
+            - Architect responsible for epayroll.usps.com
+            - Reference <a href="/references">References</a> for more information
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      My personal projects are hosted on github @ https://github.com/dotcomrow and currently relate mainly to building a private cloud using CentOS8/Rocky Linux, OpenStack Xena+, and OpenSource CloudFoundry.
 
 oss:
     title: OSS Contributions
@@ -176,24 +107,11 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Papers and publications listed here
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Enterprise Architeture Concept design
+        link: "/documents/Enterprise-Architecture-concepts.pdf"
+        authors: Chris Lyons
 
 skills:
     title: Skills &amp; Proficiency
