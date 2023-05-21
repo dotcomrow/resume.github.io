@@ -79,7 +79,17 @@ experiences:
             - Architect responsible for cns.usps.com
             - Architect responsibel for poboxes.usps.com
             - Architect responsible for epayroll.usps.com
-            - Reference <a href="/references">References</a> for more information
+            - Reference <a href="/assets/references/2006-bobotto.pdf">Bob Otto, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/2006-CNS-BobOtto.pdf">Bob Otto, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/2007-bobotto.pdf">Bob Otto, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/2007-bobotto2.pdf">Bob Otto, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/2015-judyadams.pdf">Judy Adams, MGR USPS Wilkes-Barre DC, USPS</a>
+            - Reference <a href="/assets/references/2017-jeffjohnson.pdf">Jeff Johnson, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/bobOtto-2006-cns.pdf">Bob Otto, VP Technology, USPS</a>
+            - Reference <a href="/assets/references/chrisboner.pdf">Chris Bonner, Technology Enablement, USPS</a>
+            - Reference <a href="/assets/references/joe-pop-ecc.pdf">Jospeh Popelariski, MGR USPS Wilkes-Barre DC, USPS</a>
+            - Reference <a href="/assets/references/Phil-Gusto.pdf">Phil Gusto, Analyst, Wilkes Barre DC, USPS</a>
+            - Reference <a href="/assets/references/pobol.pdf">Bob Otto, VP Technology, USPS</a>
 projects:
     title: Projects
     intro: >
@@ -91,7 +101,7 @@ publications:
       Papers and publications listed here
     papers:
       - title: Enterprise Architeture Concept design
-        link: "/assets/documents/Enterprise-Architecture-concepts.pdf"
+        link: "/assets/documents/Enterprise-Architecture-concept.pdf"
         authors: Chris Lyons
 
 skills:
