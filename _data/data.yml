@@ -46,14 +46,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I began in tech like many, my Father was in tech and I was excited to use his old tech as he upgraded!  I spent my high school years building computers for friends and hosting and desiging lan parties for Doom matches.<br>
-      After graduating Penn State with a B.S. in Computer Science I immeidately went to work for a small defense contractor cutting my teeth on tomcat and JSP applications before receiving an offer from USPS as a java developer.<br>
-      The USPS datacenter was home to a great many applications and technologies and I tried to take full advantage and learn everything I could.  I worked up the ranks from developer to Sr. Systems Engineer progressively taking on more and more responsibility.<br>
-      In my final years at USPS I was the architect responsible for cns.usps.com and poboxes.usps.com among other applications and responsibilities.  These applications were among the first to be built in a microservices architecture.<br>
-      These applications were orignally built using Apache struts frameworks which was a comfortable approach used at the datacenter.  I spent effort and time to document and design an approach for microservices migration that gained the confidence of management and the team and built a roadmap for others to follow to a microservices future.<br>
-      I was also responsible for the epayroll system which was one of the first US Govt systems to show paystubs online in near realtime as they were processed.<br>
-      I moved then to a career with Accenture where I joined the team of an AI/ML application for a national media/entertainment company.  This was an exciting leap from legacy J2EE applications to fully modern cloud services.<br>
-      In this role I built additional components for integration with a survey provider, migrated core services from a legacy J2EE system to AWS cloud microservices, and built tools for source code security review and monitoring.<br>
+      I began in tech like many, my Father was in tech and I was excited to use his old tech as he upgraded!  I spent my high school years building computers for friends and hosting and desiging lan parties for Doom matches.<br><br>
+      After graduating Penn State with a B.S. in Computer Science I immeidately went to work for a small defense contractor cutting my teeth on tomcat and JSP applications before receiving an offer from USPS as a java developer.<br><br>
+      The USPS datacenter was home to a great many applications and technologies and I tried to take full advantage and learn everything I could.  I worked up the ranks from developer to Sr. Systems Engineer progressively taking on more and more responsibility.<br><br>
+      In my final years at USPS I was the architect responsible for cns.usps.com and poboxes.usps.com among other applications and responsibilities.  These applications were among the first to be built in a microservices architecture.<br><br>
+      These applications were orignally built using Apache struts frameworks which was a comfortable approach used at the datacenter.  I spent effort and time to document and design an approach for microservices migration that gained the confidence of management and the team and built a roadmap for others to follow to a microservices future.<br><br>
+      I was also responsible for the epayroll system which was one of the first US Govt systems to show paystubs online in near realtime as they were processed.<br><br>
+      I moved then to a career with Accenture where I joined the team of an AI/ML application for a national media/entertainment company.  This was an exciting leap from legacy J2EE applications to fully modern cloud services.<br><br>
+      In this role I built additional components for integration with a survey provider, migrated core services from a legacy J2EE system to AWS cloud microservices, and built tools for source code security review and monitoring.<br><br>
 education:
     title: Education
     info:
@@ -131,6 +131,6 @@ skills:
 
       - name: CloudFoundry (Pivotal & OSCF)
         level: 70%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
