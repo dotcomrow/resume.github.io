@@ -46,14 +46,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I began in tech like many, my Father was in tech and I was excited to use his old tech as he upgraded!  I spent my high school years building computers for friends and hosting and desiging lan parties for Doom matches.
-      After graduating Penn State with a B.S. in Computer Science I immeidately went to work for a small defense contractor cutting my teeth on tomcat and JSP applications before receiving an offer from USPS as a java developer.
-      The USPS datacenter was home to a great many applications and technologies and I tried to take full advantage and learn everything I could.  I worked up the ranks from developer to Sr. Systems Engineer progressively taking on more and more responsibility.
-      In my final years at USPS I was the architect responsible for cns.usps.com and poboxes.usps.com among other applications and responsibilities.  These applications were among the first to be built in a microservices architecture.
-      These applications were orignally built using Apache struts frameworks which was a comfortable approach used at the datacenter.  I spent effort and time to document and design an approach for microservices migration that gained the confidence of management and the team and built a roadmap for others to follow to a microservices future.
-      I was also responsible for the epayroll system which was one of the first US Govt systems to show paystubs online in near realtime as they were processed.
-      I moved then to a career with Accenture where I joined the team of an AI/ML application for a national media/entertainment company.  This was an exciting leap from legacy J2EE applications to fully modern cloud services.
-      In this role I built additional components for integration with a survey provider, migrated core services from a legacy J2EE system to AWS cloud microservices, and built tools for source code security review and monitoring.
+      I began in tech like many, my Father was in tech and I was excited to use his old tech as he upgraded!  I spent my high school years building computers for friends and hosting and desiging lan parties for Doom matches.<br>
+      After graduating Penn State with a B.S. in Computer Science I immeidately went to work for a small defense contractor cutting my teeth on tomcat and JSP applications before receiving an offer from USPS as a java developer.<br>
+      The USPS datacenter was home to a great many applications and technologies and I tried to take full advantage and learn everything I could.  I worked up the ranks from developer to Sr. Systems Engineer progressively taking on more and more responsibility.<br>
+      In my final years at USPS I was the architect responsible for cns.usps.com and poboxes.usps.com among other applications and responsibilities.  These applications were among the first to be built in a microservices architecture.<br>
+      These applications were orignally built using Apache struts frameworks which was a comfortable approach used at the datacenter.  I spent effort and time to document and design an approach for microservices migration that gained the confidence of management and the team and built a roadmap for others to follow to a microservices future.<br>
+      I was also responsible for the epayroll system which was one of the first US Govt systems to show paystubs online in near realtime as they were processed.<br>
+      I moved then to a career with Accenture where I joined the team of an AI/ML application for a national media/entertainment company.  This was an exciting leap from legacy J2EE applications to fully modern cloud services.<br>
+      In this role I built additional components for integration with a survey provider, migrated core services from a legacy J2EE system to AWS cloud microservices, and built tools for source code security review and monitoring.<br>
 education:
     title: Education
     info:
@@ -85,32 +85,13 @@ projects:
     intro: >
       My personal projects are hosted on github @ https://github.com/dotcomrow and currently relate mainly to building a private cloud using CentOS8/Rocky Linux, OpenStack Xena+, and OpenSource CloudFoundry.
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
       Papers and publications listed here
     papers:
       - title: Enterprise Architeture Concept design
-        link: "/documents/Enterprise-Architecture-concepts.pdf"
+        link: "/assets/documents/Enterprise-Architecture-concepts.pdf"
         authors: Chris Lyons
 
 skills:
