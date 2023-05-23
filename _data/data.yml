@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assent/documents/Resume-Chris-Lyons.pdf
+    pdf: /assets/documents/Resume-Chris-Lyons.pdf
 
     languages:
       title: Languages
